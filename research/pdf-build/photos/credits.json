@@ -1,0 +1,194 @@
+{
+ "sansu_store": {
+  "place": "산수쌈밥",
+  "placeUrl": "https://place.map.kakao.com/2027994313",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "sansu_food": {
+  "place": "산수쌈밥",
+  "placeUrl": "https://place.map.kakao.com/2027994313",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "orion_store": {
+  "place": "오리온",
+  "placeUrl": "https://place.map.kakao.com/460293057",
+  "type": "카카오맵 업체 등록 사진",
+  "title": "매장주 제공",
+  "link": "",
+  "ok": true
+ },
+ "orion_food": {
+  "place": "오리온",
+  "placeUrl": "https://place.map.kakao.com/460293057",
+  "type": "블로그",
+  "title": "[상무지구 모임장소]오리온에서 오리고기도 먹고 뷔폐도 즐기고! 맛도 분위기도 깔끔!(+룸 예약, 캠핑장 예약 가능)",
+  "link": "http://blog.naver.com/chlskdud56/224464310108",
+  "ok": true
+ },
+ "eel_store": {
+  "place": "더큰장어",
+  "placeUrl": "https://place.map.kakao.com/2063846004",
+  "type": "블로그",
+  "title": "광주 장어맛집 양산동 더큰장어 주말 웨이팅부터 가격까지 솔직후기",
+  "link": "http://blog.naver.com/ddr5gogo/224455953494",
+  "ok": true
+ },
+ "eel_food": {
+  "place": "더큰장어",
+  "placeUrl": "https://place.map.kakao.com/2063846004",
+  "type": "블로그",
+  "title": "광주 장어맛집 양산동 더큰장어 주말 웨이팅부터 가격까지 솔직후기",
+  "link": "http://blog.naver.com/ddr5gogo/224455953494",
+  "ok": true
+ },
+ "bimi_store": {
+  "place": "비미",
+  "placeUrl": "https://place.map.kakao.com/616656256",
+  "type": "카카오맵 업체 등록 사진",
+  "title": "매장주 제공",
+  "link": "",
+  "ok": true
+ },
+ "bimi_food": {
+  "place": "비미",
+  "placeUrl": "https://place.map.kakao.com/616656256",
+  "type": "카카오맵 장소 사진",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "mul_store": {
+  "place": "물흐르듯",
+  "placeUrl": "https://place.map.kakao.com/1519520995",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "mul_food": {
+  "place": "물흐르듯",
+  "placeUrl": "https://place.map.kakao.com/1519520995",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "tisoha_store": {
+  "place": "티소하",
+  "placeUrl": "https://place.map.kakao.com/200098266",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "tisoha_food": {
+  "place": "티소하",
+  "placeUrl": "https://place.map.kakao.com/200098266",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "vanh_store": {
+  "place": "반헤이브",
+  "placeUrl": "https://place.map.kakao.com/1116852033",
+  "type": "카카오맵 장소 사진",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "vanh_food": {
+  "place": "반헤이브",
+  "placeUrl": "https://place.map.kakao.com/1116852033",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "m1913_main": {
+  "place": "1913송정역시장",
+  "placeUrl": "https://place.map.kakao.com/176940020",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "acc_main": {
+  "place": "국립아시아문화전당",
+  "placeUrl": "https://place.map.kakao.com/27233966",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "doch_main": {
+  "place": "옛전남도청",
+  "placeUrl": "https://place.map.kakao.com/777465572",
+  "type": "카카오맵 업체 등록 사진",
+  "title": "매장주 제공",
+  "link": "",
+  "ok": true
+ },
+ "peng_main": {
+  "place": "펭귄마을",
+  "placeUrl": "https://place.map.kakao.com/27368555",
+  "type": "블로그",
+  "title": "광주 가볼 만한 곳 양림동이 펭귄마을 이라 불리는 이유",
+  "link": "http://blog.naver.com/aroma2875/224468596099",
+  "ok": true
+ },
+ "peng_mural": {
+  "place": "펭귄마을",
+  "placeUrl": "https://place.map.kakao.com/27368555",
+  "type": "블로그",
+  "title": "광주 가볼 만한 곳 양림동이 펭귄마을 이라 불리는 이유",
+  "link": "http://blog.naver.com/aroma2875/224468596099",
+  "ok": true
+ },
+ "cem_main": {
+  "place": "국립5.18민주묘지",
+  "placeUrl": "https://place.map.kakao.com/25042994",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "jss_main": {
+  "place": "증심사",
+  "placeUrl": "https://place.map.kakao.com/15166788",
+  "type": "블로그",
+  "title": "오랜만에 다시 찾은, 광주 증심사 주지스님과 함께 하는 값진 시간 '차와 명상이 있는 원데이클래스' 다도체험과 싱잉볼 명상체험 ~ ! 광주청소년체험",
+  "link": "http://blog.naver.com/24nu8625/224467034941",
+  "ok": true
+ },
+ "trad_main": {
+  "place": "전통문화관",
+  "placeUrl": "https://place.map.kakao.com/17252051",
+  "type": "블로그",
+  "title": "나랑한컷 포토부스[광주,전라도 인생네컷] 광주 포토부스 대여 렌탈 포토박스 : 무등울림축제, 스탠타입 포토부스 후기",
+  "link": "http://blog.naver.com/jepojepo/224433491353",
+  "ok": true
+ },
+ "mus_main": {
+  "place": "국립광주박물관",
+  "placeUrl": "https://place.map.kakao.com/8215041",
+  "type": "카카오맵 이용자 후기",
+  "title": "",
+  "link": "",
+  "ok": true
+ },
+ "yuyu_main": {
+  "place": "유유한",
+  "placeUrl": "https://place.map.kakao.com/1036000804",
+  "type": "블로그",
+  "title": "광주 한옥 독채 숙소 | 유유한",
+  "link": "http://blog.naver.com/haruu1280/224421623599",
+  "ok": true
+ }
+}
